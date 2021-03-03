@@ -9,6 +9,6 @@ teacher_info: ''
 manual_evaluation: false
 choices: []
 goal: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  kind: last_query_equals
-  value: '9'
+  kind: last_query_outputs
+  output: '9'
 name: Calculo que sí
