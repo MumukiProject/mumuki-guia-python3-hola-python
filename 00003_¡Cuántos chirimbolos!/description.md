@@ -15,4 +15,4 @@ Como acabamos de ver en Python podemos multiplicar :heavy_multiplication_x: y di
 > 8 / 0
 > ```
 >
-> y fijate que pasa.
+> y fijate que pasa. :grimacing:
