@@ -1,0 +1,1 @@
+Como podés ver, estos operadores no devuelven números sino que nos dicen `True` o `False`, (verdadero y falso en inglés respectivamente). A este tipo de dato lo llamamos *booleano*. Vamos al siguiente ejercicio a conocer nuevos tipos de datos. :sunglasses:
