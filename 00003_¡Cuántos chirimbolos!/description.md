@@ -9,7 +9,10 @@ Como acabamos de ver en Python podemos multiplicar :heavy_multiplication_x: y di
  
 ¿Entonces la consola nos permite hacer cualquier cálculo? :thinking:
 
-> Probá en la consola 
+> Probá en la consola:
+>
 > ```python
 > 8 / 0
 > ```
+>
+> y fijate que pasa.
