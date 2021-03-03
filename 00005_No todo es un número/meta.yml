@@ -10,5 +10,5 @@ manual_evaluation: false
 choices: []
 goal: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   kind: last_query_matches
-  regexp: 9[ ]*!=[ ]*9
+  regexp: 9[ ]*==[ ]*9
 name: No todo es un número
