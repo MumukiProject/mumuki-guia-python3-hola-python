@@ -1,4 +1,4 @@
-Formalicemos qué hacen estas operaciones antes de continuar:
+Formalicemos qué hacen estas operaciones antes de continuar :wink: :
 
 * `abs` nos dice el [valor absoluto](https://es.wikipedia.org/wiki/Valor_absoluto) de un número;
 * `round` nos devuelve el redondeo de un número;
