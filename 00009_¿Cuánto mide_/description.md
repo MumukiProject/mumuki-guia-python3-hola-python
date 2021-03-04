@@ -1,0 +1,7 @@
+Muchas veces nos va a interesar saber el largo de un string, o en otras palabras, cuántos caracteres tiene :straight_ruler: . Para esto nos va a ayudar `len`. :star_struck:
+
+> Veámoslo funcionando en la consola probando:
+>
+> * `len('prosopopeya')`
+> * `len("Buenos días a todo el mundo")`
+> * `len('¿No tenés 5 minutos?')`
