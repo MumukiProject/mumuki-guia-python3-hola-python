@@ -17,7 +17,7 @@ Además, existen operaciones que sirven para todos los _tipos de datos_, por eje
 > Probá en la consola las siguientes cosas:
 >
 > * `5 + 6`
-> * `5 == 6`
+> * `5 == "5"`
 > * `8 > 6`
 > * `False / True`
 > * `'hola' or 'chau'`
