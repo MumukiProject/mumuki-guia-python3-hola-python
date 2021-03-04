@@ -11,8 +11,6 @@ Como acabamos de ver en Python podemos multiplicar :heavy_multiplication_x: y di
 
 > Probá en la consola:
 >
-> ```python
-> 8 / 0
-> ```
+> `8 / 0`
 >
 > y fijate que pasa. :grimacing:
