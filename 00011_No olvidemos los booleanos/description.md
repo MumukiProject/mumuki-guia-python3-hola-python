@@ -1,6 +1,6 @@
 Ya estuvimos probando operaciones de números y de strings, ¿los booleanos se podrán operar? :thought_balloon:
 
-¡Sí! Una de las operaciones más comunes es la conjunción lógica, "Y lógico" o simplemente `and`. 
+¡Sí! Una de las operaciones más comunes es la conjunción lógica, "Y lógico" o simplemente `and`. :relieved: 
 
 > Proba lo siguiente en la consola:
 >
