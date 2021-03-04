@@ -20,7 +20,7 @@ False
 True
 ```
 
-y también concatenarlos. :chains:
+y también concatenarlos, es decir, obtener un string a partir de la unión de otros. :chains:
 
 > Probá en la consola lo siguiente:
 
