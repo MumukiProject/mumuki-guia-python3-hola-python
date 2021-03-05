@@ -7,7 +7,7 @@ Como acabamos de ver en Python podemos multiplicar :heavy_multiplication_x: y di
 |  Multiplicación | `*`       | `2 * 3`  | 
 |  División       | `/`       | `16 / 2` |
  
-¿Entonces la consola nos permite hacer cualquier cálculo? :thinking:
+Genial :tada: , entonces ¿la consola nos permite hacer cualquier cálculo? :thinking:
 
 > Probá en la consola:
 >
