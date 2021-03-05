@@ -11,6 +11,6 @@ Genial :tada: , entonces ¿la consola nos permite hacer cualquier cálculo? :thi
 
 > Probá en la consola:
 >
-> `8 / 0`
+> `ム 8 / 0`
 >
 > y fijate que pasa. :grimacing:

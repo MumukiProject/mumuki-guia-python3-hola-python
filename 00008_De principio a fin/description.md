@@ -4,6 +4,8 @@ La sintaxis de estas operaciones es _apenitas_ :ok_hand: diferente de lo que ven
 
 > Probalas en la consola escribiendo:
 >
-> * `str.startswith("Fundación e imperio", "Fundación")`
-> * `str.endswith("Bueno, y sí", "y sí")`
-> * `str.endswith("Hola, ¿qué tal?", "Hola")`
+``` python
+ム str.startswith("Fundación e imperio", "Fundación")
+ム str.endswith("Bueno, y sí", "y sí")
+ム str.endswith("Hola, ¿qué tal?", "Hola")
+```

@@ -2,4 +2,4 @@ Si bien ahora nos acostumbramos a ver el `#` en redes sociales :busts_in_silhoue
 
 > Probá esto en la consola:
 >
-> ` 2 * 3 #¿Esto será 6 o llueve?`
+> `ム 2 * 3 #¿Esto será 6 o llueve?`

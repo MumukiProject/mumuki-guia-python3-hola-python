@@ -3,11 +3,12 @@ Una de las tantas cosas que podemos hacer con Python es cálculos matemáticos. 
 Para estos cálculos usaremos la *consola*, una herramienta muy útil para hacer pruebas rápidas sobre lo que estás haciendo. La podés reconocer fácilmente porque arranca con el chirimbolito `ム`, que se llama _[prompt](https://es.wikipedia.org/wiki/Prompt)_.
 
 > ¡Empecemos a probar! Escribí al lado del ム lo siguiente:
-
-> * `2 * 3`
-> * `8 + 7`
-> * `21 / 7`
-> * `11 - 2`
-
+>
+> ```python
+ム 2 * 3
+ム 8 + 7
+ム 21 / 7
+ム 11 - 2
+```
 > Luego de cada cálculo presioná enter. 
 
