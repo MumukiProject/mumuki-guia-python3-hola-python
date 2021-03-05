@@ -2,10 +2,13 @@ Ya estuvimos probando operaciones de números y de strings, ¿los booleanos se p
 
 ¡Sí! Una de las operaciones más comunes es la conjunción lógica, "Y lógico" o simplemente `and`. :relieved: 
 
-> Proba lo siguiente en la consola:
+> Probá lo siguiente en la consola:
 >
-> * `True and False`
-> * `True and True`
-> * `False and False`
-> * `8 < 10 and 8 > 9`
-> * `str.startswith("caracol", "cara") and str.endswith("caracol", "col")`
+``` python
+ム True and False
+ム True and True
+ム False and False
+ム 8 < 10 and 8 > 9
+ム str.startswith("caracol", "cara") and str.endswith("caracol", "col")
+```
+> Fijate si detectas algún patrón.
