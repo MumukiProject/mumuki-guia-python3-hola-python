@@ -1,1 +1,1 @@
-Como podés ver, estos operadores no devuelven números sino que nos dicen `True` o `False`, (verdadero y falso en inglés respectivamente). A este tipo de dato lo llamamos *booleano*. Vamos al siguiente ejercicio a conocer un nuevo tipo de datos. :sunglasses:
+Como podés ver, estos operadores no devuelven números sino `True` o `False`, (verdadero y falso en inglés respectivamente). Ete nuevo tipo de dato se llama *booleano*. Vamos al siguiente ejercicio a conocer otro tipo más. :sunglasses:
