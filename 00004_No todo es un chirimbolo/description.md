@@ -4,9 +4,9 @@ A diferencia de los operadores que vimos hasta acá, estos funcionan un poco dis
 
 > Probá en la consola las siguientes operaciones y fijate qué hace cada una:
 >
-> * `abs(4)`
-> * `abs(-123)`
-> * `round(4.6)`
-> * `round(4.3)`
+> * `abs(-123)` # ¿Y qué pasará con un número positivo?
+> * `round(4.3)` # ¿Con 4.6 dará lo mismo?
 > * `max(8, 7)`
 > * `min(8, 7)`
+
+> Si no descubrís qué hace cada una, podés probar con otros valores.
