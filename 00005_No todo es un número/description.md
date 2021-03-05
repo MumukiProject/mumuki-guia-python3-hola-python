@@ -7,3 +7,4 @@ Pero los operadores no solo nos sirven para obtener números a partir de otros, 
 > * `87 < 87`
 > * `87 <= 100`
 > * `9 == 9`
+> * `8 != 8`
