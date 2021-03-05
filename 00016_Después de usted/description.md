@@ -34,4 +34,10 @@ No todos los operadores que vimos tienen la misma prioridad a la hora de ser eva
 
 Sin embargo, podemos cambiar la precedencia utilizando paréntesis, ¡como en matemática!
 
-> Mirá en la consola las diferencias entre: `2 + 3 * 5` y `(2 + 3) * 5`.
+> Mirá en la consola las diferencias entre: 
+>
+>`2 + 3 * 5`
+>
+> y 
+>
+> `(2 + 3) * 5`.
