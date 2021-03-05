@@ -1,1 +1,0 @@
-Lo que está entre paréntesis es lo primero que se va a resolver. Esto no solo sirve para las operaciones matemáticas sino para todas las que vimos. :wink:
