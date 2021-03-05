@@ -4,7 +4,10 @@ Por suerte en la contracara tenemos a las calmas minúsculas. En Python podemos 
 
 > Probemos `str.upper` y `str.lower` en la consola:
 >
-> * `str.lower('BAJÁ EL VOLUMEN')`
-> * `str.lower('ya bajamos el volumen')`
-> * `str.upper('¡Ahora sí!')`
-> * `str.upper('NECESITO MAYÚSCULAS MÁS GRANDES')`
+```python
+ム str.lower('BAJÁ EL VOLUMEN')
+ム str.lower('ya bajamos el volumen')
+ム str.upper('¡Ahora sí!')
+ム str.upper('NECESITO MAYÚSCULAS MÁS GRANDES')
+```
+> ¿Te imaginás qué va a pasar en cada caso?
