@@ -1,1 +1,1 @@
-No sabemos si hubo una picadura de serpiente, pero si existe un lenguaje de programación llamado Cobra. Sin embargo, el motivo oficialmente reconocido es el show de Monty Python. :joy:
+El lenguaje de programación Cobra existe, pero es muy posterior a Python. Por otro lado, no sabemos si hubo una picadura de serpiente :stuck_out_tongue:, pero el motivo oficialmente reconocido es el show de Monty Python. :joy:
