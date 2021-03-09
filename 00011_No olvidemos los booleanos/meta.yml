@@ -10,6 +10,6 @@ manual_evaluation: false
 choices: []
 goal: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   kind: last_query_matches
-  regexp: str.startswith(\W*"caracol"\W*, \W*"cara"\W*)\W+and\W+str.endswith(\W*"caracol"\W*,\W*
+  regexp: str.startswith(\W*"caracol"\W*, \W*"cara"\W*) and str.endswith(\W*"caracol"\W*,\W*
     "col"\W*)
 name: No olvidemos los booleanos
