@@ -27,5 +27,6 @@ y también concatenarlos, es decir, obtener un string a partir de la unión de o
 ``` python
 ム "guarda" + "polvos"
 ム "Hola, " + "¿cómo estás?"
+ム "Dame " + str(5)
 ム 'Mari' + 'posa'
 ```
