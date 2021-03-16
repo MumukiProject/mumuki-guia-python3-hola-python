@@ -2,4 +2,4 @@ Uff, ¡vimos un montón de cosas! :sweat_smile: Aprendimos sobre la sintaxis de 
 
 ¡Pero no tan rápido! :person_running:
 
-> Antes de terminar un último desafío: ¡marcá todas las opciones correctas!
+> Antes de terminar, un último desafío: ¡marcá todas las opciones correctas!
