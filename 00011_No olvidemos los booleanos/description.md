@@ -5,9 +5,7 @@ Ya estuvimos probando operaciones de números y de strings, ¿los booleanos se p
 > Probá lo siguiente en la consola:
 >
 ``` python
-ム True and False
-ム True and True
-ム False and False
+ム len("hola") == len("chau") and len("blanco") == len("negro")
 ム 8 < 10 and 8 > 9
 ム str.startswith("caracol", "cara") and str.endswith("caracol", "col")
 ```
