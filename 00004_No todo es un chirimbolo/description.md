@@ -10,6 +10,6 @@ A diferencia de los operadores que vimos hasta acá, estos funcionan un poco dis
 ム max(8, 7)
 ム min(8, 7)
 ```
-> ¿Qué pasará si hacemos `abs` con un número positivo?¿ `round(4.6)` dará lo mismo?
+> ¿Qué pasará si hacemos `abs` con un número positivo?¿`round(4.6)` dará lo mismo?
 >
 > Si no descubrís qué hace cada una, podés probar con otros valores.
