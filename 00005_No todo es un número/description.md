@@ -2,12 +2,27 @@ Pero los operadores no solo nos sirven para obtener números a partir de otros, 
 
 > Probá lo siguiente en la consola:
 >
-``` python
-ム 10 > 9
-ム 11 >= 11
-ム 87 < 87
-ム 87 <= 100
-ム 9 == 9
-ム 8 != 8
+> ``` python
+ム10 > 9
+```
+>
+> ``` python
+ム11 >= 11
+```
+>
+> ``` python
+ム87 < 87
+```
+>
+> ``` python
+ム87 <= 100
+```
+>
+> ``` python
+ム9 == 9
+```
+>
+> ``` python
+ム8 != 8
 ```
 > ¿Qué crees que devolverán? ¿Será un número? :thinking:
