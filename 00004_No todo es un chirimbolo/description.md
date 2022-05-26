@@ -4,11 +4,20 @@ A diferencia de los operadores que vimos hasta acá, estos funcionan un poco dis
 
 > Probá en la consola las siguientes operaciones y fijate qué devuelve, o retorna, cada una:
 >
-``` python
-ム abs(-123) 
-ム round(4.3)
-ム max(8, 7)
-ム min(8, 7)
+> ``` python
+ムabs(-123) 
+```
+>
+> ``` python
+ムround(4.3)
+```
+>
+> ``` python
+ムmax(8, 7)
+```
+>
+> ``` python
+ムmin(8, 7)
 ```
 > ¿Qué pasará si hacemos `abs` con un número positivo?¿`round(4.6)` dará lo mismo?
 >
