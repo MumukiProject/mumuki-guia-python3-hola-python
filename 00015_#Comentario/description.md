@@ -2,4 +2,6 @@ Si bien ahora nos acostumbramos a ver el `#` en redes sociales :busts_in_silhoue
 
 > Probá esto en la consola:
 >
-> `ム 2 * 3 #¿Esto será 6 o llueve?`
+> ```python
+ム2 * 3 #¿Esto será 6 o llueve?
+```
