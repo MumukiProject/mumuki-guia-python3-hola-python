@@ -16,11 +16,23 @@ Además, existen operaciones que sirven para todos los _tipos de datos_, por eje
 
 > Probá en la consola lo siguiente:
 >
-``` python
-ム 5 + 6
-ム 5 == "5"
-ム 8 > 6
-ム False / True
-ム 'hola' or 'chau'
+>``` python
+ム5 + 6
+```
+>
+>``` python
+ム5 == "5"
+```
+>
+>``` python
+ム8 > 6
+```
+>
+>``` python
+ムFalse / True
+```
+>
+>``` python
+ム'hola' or 'chau'
 ```
 > ¿Todas estas operaciones tienen sentido?
