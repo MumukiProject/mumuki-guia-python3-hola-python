@@ -2,9 +2,15 @@ Muchas veces nos va a interesar saber el largo de un string, o en otras palabras
 
 > Veámoslo funcionando en la consola probando:
 >
-``` python
-ム len('prosopopeya')
-ム len("Buenos días a todo el mundo")
-ム len('¿No tenés 5 minutos?')
+>``` python
+ムlen('prosopopeya')
+```
+>
+>``` python
+ムlen("Buenos días a todo el mundo")
+```
+>
+>``` python
+ムlen('¿No tenés 5 minutos?')
 ```
 > ¿Te animás a pensar qué va a devolver cada caso antes de probarlo?
