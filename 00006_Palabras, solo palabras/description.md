@@ -24,9 +24,18 @@ y también concatenarlos, es decir, obtener un string a partir de la unión de o
 
 > Probá en la consola lo siguiente:
 >
-``` python
-ム "guarda" + "polvos"
-ム "Hola, " + "¿cómo estás?"
-ム "Dame " + str(5)
-ム 'Mari' + 'posa'
+> ```python
+ム"guarda" + "polvos"
+```
+>
+> ```python
+ム"Hola, " + "¿cómo estás?"
+```
+>
+> ```python
+ム"Dame " + str(5)
+```
+>
+> ```python
+ム'Mari' + 'posa'
 ```
