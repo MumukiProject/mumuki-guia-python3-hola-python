@@ -10,6 +10,10 @@ manual_evaluation: false
 progressive_expectations: false
 choices: []
 goal:
-  kind: last_query_outputs
-  output: '7'
+  kind: queries_match
+  regexps:
+  - abs\(\s*\-123\s*\)\s*
+  - round\(\s*4.3\s*\)\s*
+  - max\(\s*8,\s*7\s*\)\s*
+  - min\(\s*8,\s*7\s*\)\s*
 name: No todo es un chirimbolo
