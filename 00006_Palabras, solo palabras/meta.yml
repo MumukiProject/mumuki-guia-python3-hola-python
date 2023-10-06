@@ -12,8 +12,8 @@ choices: []
 goal:
   kind: queries_match
   regexps:
-  - '"guarda"\s*+\s*"polvos"\s*'
-  - '"Hola, "\s*+\s*"¿cómo estás\?"\s*'
-  - '"Dame "\s*+\s*str\(5\)\s*'
-  - "'Mari'\\s*+\\s*'posa'\\s*"
+  - \"guarda\"\s*+\s*\"polvos\"\s*
+  - \"Hola, \"\s*+\s*\"¿cómo estás\?\"\s*
+  - \"Dame \"\s*+\s*str\(5\)\s*
+  - "\\'Mari\\'\\s*+\\s*\\'posa\\'\\s*"
 name: Palabras, solo palabras
