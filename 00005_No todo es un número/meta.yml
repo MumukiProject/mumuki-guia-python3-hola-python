@@ -10,6 +10,12 @@ manual_evaluation: false
 progressive_expectations: false
 choices: []
 goal:
-  kind: last_query_matches
-  regexp: 8[ ]*!=[ ]*8
+  kind: queries_match
+  regexps:
+  - "^10\\s*\\>\\s*9\\s*$"
+  - "^11\\s*\\>\\=\\s*11\\s*$"
+  - "^87\\s*\\<\\ \\s*7\\s*$"
+  - "^87\\s*\\<\\=\\s*100\\s*$"
+  - "^9\\s*\\=\\=\\s*9\\s*$"
+  - "^8\\s*\\!\\=\\s*8\\s*$"
 name: No todo es un número
