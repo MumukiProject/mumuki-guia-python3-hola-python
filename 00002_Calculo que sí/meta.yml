@@ -12,8 +12,8 @@ choices: []
 goal:
   kind: queries_match
   regexps:
-  - 2\s*\*\s*3\s*
-  - 8\s*\+\s*7\s*
-  - 21\s*\/\s*7\s*
-  - 11\s*\-\s*2\s*
+  - "^2\\s*\\*\\s*3\\s*$"
+  - "^8\\s*\\+\\s*7\\s*$"
+  - "^21\\s*\\/\\s*7\\s*$"
+  - "^11\\s*\\-\\s*2\\s*$"
 name: Calculo que sí
