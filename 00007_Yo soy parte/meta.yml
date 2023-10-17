@@ -10,6 +10,9 @@ manual_evaluation: false
 progressive_expectations: false
 choices: []
 goal:
-  kind: last_query_outputs
-  output: 'True'
+  kind: queries_match
+  regexps:
+  - ^\"amor\"\s+in\s+\"celos\"\s*$
+  - ^\"placer\"\s+in\s+\"dolor\"\s*$
+  - ^\"historia\"\s+in\s+\"prehistoria\"\s*$
 name: Yo soy parte
