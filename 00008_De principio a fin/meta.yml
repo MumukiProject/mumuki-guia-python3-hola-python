@@ -14,5 +14,5 @@ goal:
   regexps:
   - ^str\.startswith\s*\(\s*\"Fundación e imperio\"\s*\,\s*\"Fundación\"\s*\)\s*$
   - ^str\.endswith\s*\(\s*\"Bueno, y sí\"\s*\,\s*\"y sí\"\s*\)\s*$
-  - ^str\.endswith\s*\(\s*\"Hola, ¿qué tal?\"\s*\,\s*\"Hola\"\s*\)\s*$
+  - ^str\.endswith\s*\(\s*\"Hola, \¿qué tal\?\"\s*\,\s*\"Hola\"\s*\)\s*$
 name: De principio a fin
