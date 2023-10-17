@@ -10,6 +10,9 @@ manual_evaluation: false
 progressive_expectations: false
 choices: []
 goal:
-  kind: last_query_outputs
-  output: '20'
+  kind: queries_match
+  regexps:
+  - "^len\\s*\\(\\s*\\'prosopopeya\\'\\s*\\)\\s*$"
+  - ^len\s*\(\s*\"Buenos días a todo el mundo\"\s*\)\s*$
+  - "^len\\s*\\(\\s*\\'¿No tenés 5 minutos?\\'\\s*\\)\\s*$"
 name: "¿Cuánto mide?"
