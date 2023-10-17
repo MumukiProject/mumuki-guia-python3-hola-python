@@ -10,6 +10,9 @@ manual_evaluation: false
 progressive_expectations: false
 choices: []
 goal:
-  kind: last_query_outputs
-  output: 'False'
+  kind: queries_match
+  regexps:
+  - ^str\.lower\s*\(\s*\"HOLA\"\s*\)\s*\=\=\s*\"hola\"\s+or\s+str\.lower\s*\(\s*\"adiós\"\s*\)\s*\=\=\s*\"adiós\"\s*$
+  - ^len\s*\(\s*\"hola\"\s*\)\s*\>\s*5\s+or\s+abs\s*\(\s*\-5\s*\)\s*\=\=\s*5\s*$
+  - ^str\.upper\s*\(\s*\"mumuki\"\s*\)\s*\=\=\s*\"Mumuki\"\s+or\s+\"amor\"\s+in\s+\"romance\"\s*$
 name: Verdadero o falso
