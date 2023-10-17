@@ -14,5 +14,5 @@ goal:
   regexps:
   - "^len\\s*\\(\\s*\\'prosopopeya\\'\\s*\\)\\s*$"
   - ^len\s*\(\s*\"Buenos días a todo el mundo\"\s*\)\s*$
-  - "^len\\s*\\(\\s*\\'¿No tenés 5 minutos?\\'\\s*\\)\\s*$"
+  - "^len\\s*\\(\\s*\\'¿No tenés 5 minutos\\?\\'\\s*\\)\\s*$"
 name: "¿Cuánto mide?"
