@@ -10,6 +10,9 @@ manual_evaluation: false
 progressive_expectations: false
 choices: []
 goal:
-  kind: last_query_matches
-  regexp: str.startswith(\W*"caracol"\W*,\W*"cara"\W*)\W+and\W+str.endswith(\W*"caracol"\W*,\W*"col"\W*)
+  kind: queries_match
+  regexps:
+  - ^len\s*\(\s*\"hola\"\s*\)\s*\=\=\s*len\s*\(\s*\"chau\"\s*\) and len\s*\(\s*\"blanco\"\s*\)\s*\=\=\s*len\s*\(\s*\"negro\"\s*\)\s*$
+  - "^8\\s*\\<\\s*10\\s+and\\s+8\\s*\\>\\s*9\\s*$"
+  - ^str\.startswith\s*\(\s*\"caracol\"\s*\,\s*\"cara\"\s*\) and str\.endswith\s*\(\s*\"caracol\"\s*\,\s*\"col\"\s*\)\s*$
 name: No olvidemos los booleanos
