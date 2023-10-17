@@ -10,6 +10,9 @@ manual_evaluation: false
 progressive_expectations: false
 choices: []
 goal:
-  kind: last_query_outputs
-  output: 'False'
+  kind: queries_match
+  regexps:
+  - ^str\.startswith\s*\(\s*\"Fundación e imperio\"\s*\,\s*\"Fundación\"\s*\)\s*$
+  - ^str\.endswith\s*\(\s*\"Bueno, y sí\"\s*\,\s*\"y sí\"\s*\)\s*$
+  - ^str\.endswith\s*\(\s*\"Hola, ¿qué tal?\"\s*\,\s*\"Hola\"\s*\)\s*$
 name: De principio a fin
