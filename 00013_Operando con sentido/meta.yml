@@ -10,6 +10,11 @@ manual_evaluation: false
 progressive_expectations: false
 choices: []
 goal:
-  kind: last_query_outputs
-  output: "'hola'"
+  kind: queries_match
+  regexps:
+  - "^5\\s*\\+\\s*6\\s*$"
+  - ^5\s*\=\=\s*\"5\"\s*$
+  - "^8\\s*\\>\\s*6\\s*$"
+  - "^False\\s*\\/\\s*True\\s*$"
+  - "^\\'hola\\'\\s+or\\s+\\'chau\\'\\s*$"
 name: Operando con sentido
