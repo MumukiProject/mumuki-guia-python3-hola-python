@@ -10,6 +10,11 @@ manual_evaluation: false
 progressive_expectations: false
 choices: []
 goal:
-  kind: last_query_outputs
-  output: "'NECESITO MAYÚSCULAS MÁS GRANDES'"
+  kind: queries_match
+  regexps:
+  - ^str\.strip\s*\(\"    ¿Por qué tantos espacios\?       \"\s*\)\s*$
+  - "^str\\.lower\\s*\\(\\'BAJÁ EL VOLUMEN\\'\\s*\\)\\s*$"
+  - "^str\\.lower\\s*\\(\\'ya bajamos el volumen\\'\\s*\\)\\s*$"
+  - "^str\\.upper\\s*\\(\\'¡Ahora sí!\\'\\s*\\)\\s*$"
+  - "^str\\.upper\\s*\\(\\'NECESITO MAYÚSCULAS MÁS GRANDES\\'\\s*\\)\\s*$"
 name: "¡A mí no me grités!"
